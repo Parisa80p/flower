@@ -14,6 +14,6 @@ while(cap.isOpened()):
 
         # write the flipped frame
         out.write(frame)
-
+...
        
 
